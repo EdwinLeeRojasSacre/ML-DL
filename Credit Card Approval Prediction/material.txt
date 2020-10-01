@@ -1,0 +1,7 @@
+https://www.bcrp.gob.pe/docs/Publicaciones/Reporte-Estabilidad-Financiera/2019/mayo/ref-mayo-2019-recuadro-1.pdf
+https://www.kaggle.com/rikdifos/eda-vintage-analysis?select=application_record.csv
+
+https://www.listendata.com/2019/09/credit-risk-vintage-analysis.html
+
+ejemplo para agrupar caracteristicas
+https://www.kaggle.com/rikdifos/lgb-cv-feature-importance-learning-curve
